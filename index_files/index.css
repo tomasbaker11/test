@@ -41,7 +41,7 @@ body
 {
    margin: 0;
    background-color: transparent;
-   background-image: url('/images/Hourly_AR_jpg_637924593773657740.jpg');
+   background-image: url('images/Hourly_AR_jpg_637924593773657740.jpg');
    background-repeat: no-repeat;
    background-position: left top;
    background-size: cover;
@@ -138,7 +138,7 @@ body
 {
    margin: 0;
    background-color: transparent;
-   background-image: url('/images/housekeeper_jpg_637964364069542910.jpg');
+   background-image: url('images/housekeeper_jpg_637964364069542910.jpg');
    background-repeat: no-repeat;
    background-position: left top;
    background-size: cover;
@@ -199,7 +199,7 @@ body
 {
    margin: 0;
    background-color: transparent;
-   background-image: url('/images/Holidays_AR_jpg_637924593440034515.jpg');
+   background-image: url('images/Holidays_AR_jpg_637924593440034515.jpg');
    background-repeat: no-repeat;
    background-position: left top;
    background-size: cover;
@@ -282,7 +282,7 @@ body
 {
    margin: 0;
    background-color: transparent;
-   background-image: url('/images/driver_jpg_637964360164878458.jpg');
+   background-image: url('images/driver_jpg_637964360164878458.jpg');
    background-repeat: no-repeat;
    background-position: left top;
    background-size: cover;
