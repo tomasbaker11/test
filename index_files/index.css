@@ -41,7 +41,7 @@ body
 {
    margin: 0;
    background-color: transparent;
-   background-image: url('images/Hourly_AR_jpg_637924593773657740.jpg');
+   background-image: url('./images/Hourly_AR_jpg_637924593773657740.jpg');
    background-repeat: no-repeat;
    background-position: left top;
    background-size: cover;
